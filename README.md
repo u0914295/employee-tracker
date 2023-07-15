@@ -15,3 +15,5 @@ Once you've started the database program, your screen should look as follows:
 Browse through the various tabs to view all the departments in the workplace, view all the roles of the workplace, and view all the employees in the workplace. You can also add a department, add a new role, and add or remove an employee. Keep in mind when adding or removing an employee, you must hit "enter" on the "Update employee role" tab. 
 
 For a video tutorial for this database program, click on the following link:
+
+https://drive.google.com/file/d/1PtT6WwgduWBrkbZIwhgPTPcVG_s0RCg5/view?usp=sharing
